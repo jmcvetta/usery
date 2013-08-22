@@ -1,4 +1,4 @@
 usery
 =====
 
-EXPERIMENTAL - User management library for Golang
+# NOT READY - DO NOT USE
